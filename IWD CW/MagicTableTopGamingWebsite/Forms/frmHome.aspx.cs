@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace MagicTableTopGamingWebsite.Forms
+{
+    public partial class frmHome : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                if (Session["CART"] == null)
+                {
+                    ArrayList arrCart = new ArrayList();
+                    Session.Add("CART", arrCart);
+                }
+
+                if (Session["USER"] == null)
+                {
+                    ArrayList arrUser = new ArrayList();
+                    Session.Add("USER", arrUser);
+                }
+
+                if (Session["ORDER"] == null)
+                {
+                    ArrayList arrOrder = new ArrayList();
+                    Session.Add("ORDER", arrOrder);
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="frmTemplate.master.cs" Inherits="MagicTableTopGamingWebsite.frmTemplate" %>
+
+<!DOCTYPE html>
+
+<html>
+    <head runat="server">
+        <script type="text/javascript" language="javascript">
+            function areyousure() {
+                var reply = confirm("Empty basket contents... Are you sure?");
+                return reply;
+            }
+
+            function checkout() {
+                var reply = confirm("Do you wish to check out?");
+                return reply;
+            }
+        </script>
+
+        <title></title>
+        <asp:ContentPlaceHolder ID="head" runat="server">
+        </asp:ContentPlaceHolder>
+        <link rel="stylesheet" href="StyleSheet.css">
+    </head>
+    <body>
+        <form id="form1" runat="server">
+        <div id="banner">
+            <img src = "Images/banner.jpeg" height = "200" width = "1102" alt = "banner"/>
+        </div>
+        <div class="nav"> 
+            <a href="frmHome.aspx"><Strong>Home</Strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="frmShop.aspx"><Strong>Shop</Strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="frmCart.aspx"><Strong>Cart</Strong></a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="frmLogin.aspx"><Strong><label id="lblLogin">Login</label></Strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="frmAbout.aspx"><Strong>About Us</Strong></a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="frmDiscussion.aspx"><Strong>Discussion</Strong></a>
+        </div>
+        <div id="container">
+            <div id="content"> 
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+        <div id="footer"> 
+            <div>
+                <h2 style="color: white; margin: 10px;">
+                    Support
+                </h2>
+                <h5 style="color:lightskyblue; margin: 0px;">
+                    TELEPHONE
+                </h5>
+                <p class="whiteCenter" style="margin: 10px;">
+                    07 6523 83567 <br>
+                    Monday-Friday, 9am-4pm <br>
+                    Saturday, 10am-4pm <br>
+                    Sunday, Closed
+                </p>
+            </div>
+        </div>
+        </form>
+    </body>
+</html>

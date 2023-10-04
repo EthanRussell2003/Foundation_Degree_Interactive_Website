@@ -1,0 +1,14 @@
+C:\Users\50057876\OneDrive - Belfast Metropolitan College\IWD\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\bin\MagicTableTopGamingWebsite.dll.config
+C:\Users\50057876\OneDrive - Belfast Metropolitan College\IWD\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\bin\MagicTableTopGamingWebsite.dll
+C:\Users\50057876\OneDrive - Belfast Metropolitan College\IWD\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\bin\MagicTableTopGamingWebsite.pdb
+C:\Users\50057876\OneDrive - Belfast Metropolitan College\IWD\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\obj\Debug\MagicTableTopGamingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\50057876\OneDrive - Belfast Metropolitan College\IWD\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\obj\Debug\MagicTableTopGamingWebsite.dll
+C:\Users\50057876\OneDrive - Belfast Metropolitan College\IWD\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\obj\Debug\MagicTableTopGamingWebsite.pdb
+C:\Users\50057876\OneDrive - Belfast Metropolitan College\IWD\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\obj\Debug\MagicTableTopGamingWebsite.csprojAssemblyReference.cache
+C:\Users\Ethan\Downloads\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\obj\Debug\MagicTableTopGamingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Downloads\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\bin\MagicTableTopGamingWebsite.dll.config
+C:\Users\Ethan\Downloads\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\bin\MagicTableTopGamingWebsite.dll
+C:\Users\Ethan\Downloads\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\bin\MagicTableTopGamingWebsite.pdb
+C:\Users\Ethan\Downloads\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\obj\Debug\MagicTableTopGamingWebsite.dll
+C:\Users\Ethan\Downloads\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\obj\Debug\MagicTableTopGamingWebsite.pdb
+C:\Users\Ethan\Downloads\MagicTableTopGamingWebsiteSol\MagicTableTopGamingWebsite\obj\Debug\MagicTableTopGamingWebsite.csproj.AssemblyReference.cache

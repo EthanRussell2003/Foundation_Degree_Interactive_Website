@@ -1,0 +1,4 @@
+Guest >> 21:18 << : Hello world!
+Admin >> 21:21 << : Hello! Welcome friend :)
+Guest >> 02:57 << : This website is great!
+Admin >> 03:02 << : Thanks :D
